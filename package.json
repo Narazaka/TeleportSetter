@@ -1,0 +1,16 @@
+{
+  "name": "net.narazaka.vrchat.teleport-setter",
+  "version": "1.0.0",
+  "displayName": "Teleport Setter",
+  "description": "Dynamic Teleport Setter",
+  "author": {
+    "name": "Narazaka",
+    "url": "https://github.com/Narazaka"
+  },
+  "license": "Zlib",
+  "type": "tool",
+  "url" : "https://github.com/Narazaka/TeleportSetter.git",
+  "vpmDependencies": {
+    "com.vrchat.worlds": "*"
+  }
+}

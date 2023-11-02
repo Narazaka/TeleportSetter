@@ -1,0 +1,17 @@
+{
+    "name": "TeleportSetter.Editor",
+    "references": [
+        "GUID:7a4c80123fe7fd34a9a3f280e443424b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
